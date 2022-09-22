@@ -16,7 +16,7 @@ import { Action, ActionRunner, IAction, IActionChangeEvent, IActionRunner, Separ
 import { Disposable } from 'vs/base/common/lifecycle';
 import * as platform from 'vs/base/common/platform';
 import * as types from 'vs/base/common/types';
-import 'vs/css!./actionbar';
+// import 'vs/css!./actionbar';
 import * as nls from 'vs/nls';
 
 export interface IBaseActionViewItemOptions {
