@@ -3,7 +3,7 @@
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 
-import 'vs/css!./media/sidebysideeditor';
+// import 'vs/css!./media/sidebysideeditor';
 import { localize } from 'vs/nls';
 import { Dimension, $, clearNode, multibyteAwareBtoa } from 'vs/base/browser/dom';
 import { Registry } from 'vs/platform/registry/common/platform';

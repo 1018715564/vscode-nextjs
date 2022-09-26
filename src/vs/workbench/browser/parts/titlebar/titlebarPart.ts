@@ -3,7 +3,7 @@
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 
-import 'vs/css!./media/titlebarpart';
+// import 'vs/css!./media/titlebarpart';
 import { localize } from 'vs/nls';
 import { Part } from 'vs/workbench/browser/part';
 import { ITitleService, ITitleProperties } from 'vs/workbench/services/title/common/titleService';

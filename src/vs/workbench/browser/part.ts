@@ -3,7 +3,7 @@
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 
-import 'vs/css!./media/part';
+// import 'vs/css!./media/part';
 import { Component } from 'vs/workbench/common/component';
 import { IThemeService, IColorTheme } from 'vs/platform/theme/common/themeService';
 import { Dimension, size, IDimension } from 'vs/base/browser/dom';

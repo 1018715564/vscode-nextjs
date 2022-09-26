@@ -3,7 +3,7 @@
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 
-import 'vs/css!./media/processExplorer';
+// // import 'vs/css!./media/processExplorer';
 import 'vs/base/browser/ui/codicons/codiconStyles'; // make sure codicon css is loaded
 import { localize } from 'vs/nls';
 import { $, append, createStyleSheet } from 'vs/base/browser/dom';

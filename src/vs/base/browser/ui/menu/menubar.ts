@@ -20,7 +20,7 @@ import { Disposable, dispose, IDisposable } from 'vs/base/common/lifecycle';
 import { isMacintosh } from 'vs/base/common/platform';
 import * as strings from 'vs/base/common/strings';
 import { withNullAsUndefined } from 'vs/base/common/types';
-import 'vs/css!./menubar';
+// // import 'vs/css!./menubar';
 import * as nls from 'vs/nls';
 
 const $ = DOM.$;

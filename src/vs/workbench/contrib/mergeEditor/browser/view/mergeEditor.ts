@@ -15,7 +15,7 @@ import { autorun, autorunWithStore, IObservable, IReader, observableValue, trans
 import { basename, isEqual } from 'vs/base/common/resources';
 import { isDefined } from 'vs/base/common/types';
 import { URI } from 'vs/base/common/uri';
-import 'vs/css!./media/mergeEditor';
+// import 'vs/css!./media/mergeEditor';
 import { ICodeEditor, IViewZoneChangeAccessor } from 'vs/editor/browser/editorBrowser';
 import { ICodeEditorService } from 'vs/editor/browser/services/codeEditorService';
 import { IEditorOptions as ICodeEditorOptions } from 'vs/editor/common/config/editorOptions';

@@ -3,7 +3,7 @@
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 
-import 'vs/css!./media/style';
+// import 'vs/css!./media/style';
 import { registerThemingParticipant } from 'vs/platform/theme/common/themeService';
 import { iconForeground, foreground, selectionBackground, focusBorder, listHighlightForeground, inputPlaceholderForeground, toolbarHoverBackground, toolbarActiveBackground, toolbarHoverOutline, listFocusHighlightForeground } from 'vs/platform/theme/common/colorRegistry';
 import { WORKBENCH_BACKGROUND, TITLE_BAR_ACTIVE_BACKGROUND } from 'vs/workbench/common/theme';

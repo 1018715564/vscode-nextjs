@@ -8,7 +8,7 @@ import { Disposable, DisposableStore, MutableDisposable } from 'vs/base/common/l
 import { Schemas } from 'vs/base/common/network';
 import { isObject } from 'vs/base/common/types';
 import { URI } from 'vs/base/common/uri';
-import 'vs/css!./media/preferences';
+// import 'vs/css!./media/preferences';
 import { registerEditorContribution } from 'vs/editor/browser/editorExtensions';
 import { Context as SuggestContext } from 'vs/editor/contrib/suggest/browser/suggest';
 import * as nls from 'vs/nls';

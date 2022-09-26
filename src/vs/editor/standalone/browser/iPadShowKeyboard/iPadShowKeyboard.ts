@@ -3,7 +3,7 @@
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 
-import 'vs/css!./iPadShowKeyboard';
+// import 'vs/css!./iPadShowKeyboard';
 import * as dom from 'vs/base/browser/dom';
 import { Disposable } from 'vs/base/common/lifecycle';
 import { ICodeEditor, IOverlayWidget, IOverlayWidgetPosition, OverlayWidgetPositionPreference } from 'vs/editor/browser/editorBrowser';

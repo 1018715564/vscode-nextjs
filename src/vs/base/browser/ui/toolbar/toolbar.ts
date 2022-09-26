@@ -13,7 +13,7 @@ import { EventMultiplexer } from 'vs/base/common/event';
 import { ResolvedKeybinding } from 'vs/base/common/keybindings';
 import { Disposable, DisposableStore } from 'vs/base/common/lifecycle';
 import { withNullAsUndefined } from 'vs/base/common/types';
-import 'vs/css!./toolbar';
+// // import 'vs/css!./toolbar';
 import * as nls from 'vs/nls';
 
 

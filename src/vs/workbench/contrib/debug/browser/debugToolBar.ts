@@ -13,7 +13,7 @@ import { RunOnceScheduler } from 'vs/base/common/async';
 import * as errors from 'vs/base/common/errors';
 import { DisposableStore, dispose, IDisposable } from 'vs/base/common/lifecycle';
 import { URI } from 'vs/base/common/uri';
-import 'vs/css!./media/debugToolBar';
+// import 'vs/css!./media/debugToolBar';
 import { ServicesAccessor } from 'vs/editor/browser/editorExtensions';
 import { localize } from 'vs/nls';
 import { ICommandAction, ICommandActionTitle } from 'vs/platform/action/common/action';

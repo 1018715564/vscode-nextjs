@@ -1,13 +1,16 @@
 {
-  "name": "code-oss-dev",
-  "version": "1.72.0",
+  "name": "@swordjs/code-oss-dev",
+  "version": "1.72.5",
   "distro": "a059cc556e3d082a9ca864269c467c2f3b827dd9",
   "author": {
     "name": "Microsoft Corporation"
   },
   "license": "MIT",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
   "main": "./out/main",
-  "private": true,
   "scripts": {
     "test": "echo Please run any of the test scripts from the scripts folder.",
     "test-browser": "npx playwright install && node test/unit/browser/index.js",

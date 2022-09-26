@@ -3,7 +3,7 @@
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 
-import 'vs/css!./media/feedback';
+// import 'vs/css!./media/feedback';
 import { localize } from 'vs/nls';
 import { IDisposable, DisposableStore, Disposable } from 'vs/base/common/lifecycle';
 import { IContextViewService } from 'vs/platform/contextview/browser/contextView';

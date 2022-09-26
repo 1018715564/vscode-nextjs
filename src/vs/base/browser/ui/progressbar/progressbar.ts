@@ -9,7 +9,7 @@ import { Color } from 'vs/base/common/color';
 import { Disposable } from 'vs/base/common/lifecycle';
 import { mixin } from 'vs/base/common/objects';
 import { isNumber } from 'vs/base/common/types';
-import 'vs/css!./progressbar';
+// // import 'vs/css!./progressbar';
 
 const CSS_DONE = 'done';
 const CSS_ACTIVE = 'active';

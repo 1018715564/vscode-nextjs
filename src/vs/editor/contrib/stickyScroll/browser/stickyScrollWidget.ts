@@ -19,7 +19,7 @@ import { IInstantiationService } from 'vs/platform/instantiation/common/instanti
 import { CancellationTokenSource } from 'vs/base/common/cancellation';
 import { IRange, Range } from 'vs/editor/common/core/range';
 import { StandardMouseEvent } from 'vs/base/browser/mouseEvent';
-import 'vs/css!./stickyScroll';
+// // import 'vs/css!./stickyScroll';
 
 interface CustomMouseEvent {
 	detail: string;

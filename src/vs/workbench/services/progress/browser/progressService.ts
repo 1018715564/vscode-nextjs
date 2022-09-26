@@ -3,7 +3,7 @@
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 
-import 'vs/css!./media/progressService';
+// import 'vs/css!./media/progressService';
 
 import { localize } from 'vs/nls';
 import { IDisposable, dispose, DisposableStore, Disposable, toDisposable } from 'vs/base/common/lifecycle';

@@ -12,7 +12,7 @@ import { KeyCode, KeyMod } from 'vs/base/common/keyCodes';
 import { DisposableStore } from 'vs/base/common/lifecycle';
 import { assertIsDefined, withNullAsUndefined } from 'vs/base/common/types';
 import { URI } from 'vs/base/common/uri';
-import 'vs/css!./media/searchEditor';
+// import 'vs/css!./media/searchEditor';
 import { ICodeEditorWidgetOptions } from 'vs/editor/browser/widget/codeEditorWidget';
 import { Position } from 'vs/editor/common/core/position';
 import { Range } from 'vs/editor/common/core/range';

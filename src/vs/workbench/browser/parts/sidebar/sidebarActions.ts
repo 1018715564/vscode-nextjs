@@ -3,7 +3,7 @@
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 
-import 'vs/css!./media/sidebarpart';
+// import 'vs/css!./media/sidebarpart';
 import { localize } from 'vs/nls';
 import { Action2, registerAction2 } from 'vs/platform/actions/common/actions';
 import { IWorkbenchLayoutService, Parts } from 'vs/workbench/services/layout/browser/layoutService';

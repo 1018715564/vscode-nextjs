@@ -8,7 +8,7 @@ import { CharCode } from 'vs/base/common/charCode';
 import { dispose } from 'vs/base/common/lifecycle';
 import { getLeadingWhitespace } from 'vs/base/common/strings';
 import { withNullAsUndefined } from 'vs/base/common/types';
-import 'vs/css!./snippetSession';
+// // import 'vs/css!./snippetSession';
 import { IActiveCodeEditor } from 'vs/editor/browser/editorBrowser';
 import { EditorOption } from 'vs/editor/common/config/editorOptions';
 import { EditOperation, ISingleEditOperation } from 'vs/editor/common/core/editOperation';

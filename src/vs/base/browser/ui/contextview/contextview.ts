@@ -8,7 +8,7 @@ import * as DOM from 'vs/base/browser/dom';
 import { Disposable, DisposableStore, IDisposable, toDisposable } from 'vs/base/common/lifecycle';
 import * as platform from 'vs/base/common/platform';
 import { Range } from 'vs/base/common/range';
-import 'vs/css!./contextview';
+// // import 'vs/css!./contextview';
 
 export const enum ContextViewDOMPosition {
 	ABSOLUTE = 1,

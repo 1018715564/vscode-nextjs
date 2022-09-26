@@ -3,7 +3,7 @@
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 
-import 'vs/css!./media/extensionEditor';
+// import 'vs/css!./media/extensionEditor';
 import { localize } from 'vs/nls';
 import * as arrays from 'vs/base/common/arrays';
 import { OS, locale } from 'vs/base/common/platform';

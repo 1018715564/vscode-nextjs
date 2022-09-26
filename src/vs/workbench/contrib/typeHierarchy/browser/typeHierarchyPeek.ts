@@ -3,7 +3,7 @@
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 
-import 'vs/css!./media/typeHierarchy';
+// import 'vs/css!./media/typeHierarchy';
 import { Dimension } from 'vs/base/browser/dom';
 import { Orientation, Sizing, SplitView } from 'vs/base/browser/ui/splitview/splitview';
 import { IAsyncDataTreeViewState } from 'vs/base/browser/ui/tree/asyncDataTree';

@@ -3,7 +3,7 @@
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 
-import 'vs/css!./media/scm';
+// import 'vs/css!./media/scm';
 import { localize } from 'vs/nls';
 import { ViewPane, IViewPaneOptions } from 'vs/workbench/browser/parts/views/viewPane';
 import { append, $ } from 'vs/base/browser/dom';

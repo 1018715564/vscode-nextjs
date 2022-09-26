@@ -9,7 +9,7 @@ import { Color, RGBA } from 'vs/base/common/color';
 import { IdGenerator } from 'vs/base/common/idGenerator';
 import { DisposableStore } from 'vs/base/common/lifecycle';
 import * as objects from 'vs/base/common/objects';
-import 'vs/css!./zoneWidget';
+// import 'vs/css!./zoneWidget';
 import { ICodeEditor, IOverlayWidget, IOverlayWidgetPosition, IViewZone, IViewZoneChangeAccessor } from 'vs/editor/browser/editorBrowser';
 import { EditorLayoutInfo, EditorOption } from 'vs/editor/common/config/editorOptions';
 import { IPosition, Position } from 'vs/editor/common/core/position';

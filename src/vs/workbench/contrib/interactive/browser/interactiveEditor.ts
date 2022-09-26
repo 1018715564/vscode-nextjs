@@ -3,7 +3,7 @@
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 
-import 'vs/css!./media/interactive';
+// import 'vs/css!./media/interactive';
 import * as nls from 'vs/nls';
 import * as DOM from 'vs/base/browser/dom';
 import { CancellationToken } from 'vs/base/common/cancellation';

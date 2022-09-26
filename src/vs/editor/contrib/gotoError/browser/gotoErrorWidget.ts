@@ -13,7 +13,7 @@ import { DisposableStore, dispose } from 'vs/base/common/lifecycle';
 import { basename } from 'vs/base/common/resources';
 import { ScrollbarVisibility } from 'vs/base/common/scrollable';
 import { splitLines } from 'vs/base/common/strings';
-import 'vs/css!./media/gotoErrorWidget';
+// // import 'vs/css!./media/gotoErrorWidget';
 import { ICodeEditor } from 'vs/editor/browser/editorBrowser';
 import { EditorOption } from 'vs/editor/common/config/editorOptions';
 import { Range } from 'vs/editor/common/core/range';

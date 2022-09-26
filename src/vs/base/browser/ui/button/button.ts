@@ -16,7 +16,7 @@ import { KeyCode } from 'vs/base/common/keyCodes';
 import { Disposable, IDisposable } from 'vs/base/common/lifecycle';
 import { mixin } from 'vs/base/common/objects';
 import { localize } from 'vs/nls';
-import 'vs/css!./button';
+// // import 'vs/css!./button';
 
 export interface IButtonOptions extends IButtonStyles {
 	readonly title?: boolean | string;

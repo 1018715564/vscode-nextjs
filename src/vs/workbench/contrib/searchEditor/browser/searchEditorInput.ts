@@ -3,7 +3,7 @@
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 
-import 'vs/css!./media/searchEditor';
+// import 'vs/css!./media/searchEditor';
 import { Emitter, Event } from 'vs/base/common/event';
 import { basename } from 'vs/base/common/path';
 import { extname, isEqual, joinPath } from 'vs/base/common/resources';

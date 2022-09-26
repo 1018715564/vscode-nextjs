@@ -3,7 +3,7 @@
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 
-import 'vs/css!./media/panelpart';
+// import 'vs/css!./media/panelpart';
 import { localize } from 'vs/nls';
 import { KeyMod, KeyCode } from 'vs/base/common/keyCodes';
 import { Action } from 'vs/base/common/actions';

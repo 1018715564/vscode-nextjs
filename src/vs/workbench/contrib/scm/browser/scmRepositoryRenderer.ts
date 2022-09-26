@@ -3,7 +3,7 @@
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 
-import 'vs/css!./media/scm';
+// import 'vs/css!./media/scm';
 import { IDisposable, Disposable, DisposableStore, combinedDisposable, toDisposable } from 'vs/base/common/lifecycle';
 import { append, $ } from 'vs/base/browser/dom';
 import { ISCMRepository, ISCMViewService } from 'vs/workbench/contrib/scm/common/scm';

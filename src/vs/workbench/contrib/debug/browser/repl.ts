@@ -20,7 +20,7 @@ import { KeyCode, KeyMod } from 'vs/base/common/keyCodes';
 import { Disposable, IDisposable } from 'vs/base/common/lifecycle';
 import { removeAnsiEscapeCodes } from 'vs/base/common/strings';
 import { URI as uri } from 'vs/base/common/uri';
-import 'vs/css!./media/repl';
+// import 'vs/css!./media/repl';
 import { ICodeEditor, isCodeEditor } from 'vs/editor/browser/editorBrowser';
 import { EditorAction, registerEditorAction } from 'vs/editor/browser/editorExtensions';
 import { ICodeEditorService } from 'vs/editor/browser/services/codeEditorService';

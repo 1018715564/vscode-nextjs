@@ -14,7 +14,7 @@ import { Emitter, Event } from 'vs/base/common/event';
 import { DisposableStore, IDisposable } from 'vs/base/common/lifecycle';
 import { clamp } from 'vs/base/common/numbers';
 import * as strings from 'vs/base/common/strings';
-import 'vs/css!./media/suggest';
+// // import 'vs/css!./media/suggest';
 import { ContentWidgetPositionPreference, ICodeEditor, IContentWidget, IContentWidgetPosition, IEditorMouseEvent } from 'vs/editor/browser/editorBrowser';
 import { EmbeddedCodeEditorWidget } from 'vs/editor/browser/widget/embeddedCodeEditorWidget';
 import { EditorOption } from 'vs/editor/common/config/editorOptions';

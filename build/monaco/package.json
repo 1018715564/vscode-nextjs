@@ -1,7 +1,6 @@
 {
-  "name": "monaco-editor-core",
-  "private": true,
-  "version": "0.0.0",
+  "name": "@swordjs/monaco-editor-core",
+  "version": "1.72.2",
   "description": "A browser based code editor",
   "author": "Microsoft Corporation",
   "license": "MIT",
@@ -10,6 +9,10 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/microsoft/vscode"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   },
   "bugs": {
     "url": "https://github.com/microsoft/vscode/issues"

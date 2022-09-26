@@ -3,7 +3,7 @@
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 
-import 'vs/css!./media/keybindings';
+// import 'vs/css!./media/keybindings';
 import * as nls from 'vs/nls';
 import { OS } from 'vs/base/common/platform';
 import { Disposable, toDisposable, DisposableStore } from 'vs/base/common/lifecycle';

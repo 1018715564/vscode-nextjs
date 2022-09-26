@@ -14,7 +14,7 @@ import { IAction } from 'vs/base/common/actions';
 import { Codicon } from 'vs/base/common/codicons';
 import { Disposable, DisposableStore, IDisposable, MutableDisposable } from 'vs/base/common/lifecycle';
 import { OS } from 'vs/base/common/platform';
-import 'vs/css!./media/action';
+// // import 'vs/css!./media/action';
 import { CodeActionItem, CodeActionSet } from 'vs/editor/contrib/codeAction/browser/codeAction';
 import { CodeActionKind, CodeActionTrigger, CodeActionTriggerSource } from 'vs/editor/contrib/codeAction/browser/types';
 import 'vs/editor/contrib/symbolIcons/browser/symbolIcons'; // The codicon symbol colors are defined here and must be loaded to get colors

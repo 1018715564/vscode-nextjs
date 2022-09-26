@@ -7,7 +7,7 @@ import { alert } from 'vs/base/browser/ui/aria/aria';
 import { TimeoutTimer } from 'vs/base/common/async';
 import { KeyCode } from 'vs/base/common/keyCodes';
 import { DisposableStore, IDisposable, MutableDisposable } from 'vs/base/common/lifecycle';
-import 'vs/css!./messageController';
+// // import 'vs/css!./messageController';
 import { ContentWidgetPositionPreference, ICodeEditor, IContentWidget, IContentWidgetPosition } from 'vs/editor/browser/editorBrowser';
 import { EditorCommand, registerEditorCommand, registerEditorContribution } from 'vs/editor/browser/editorExtensions';
 import { IPosition } from 'vs/editor/common/core/position';

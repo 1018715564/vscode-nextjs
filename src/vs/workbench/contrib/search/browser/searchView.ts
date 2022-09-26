@@ -21,7 +21,7 @@ import * as env from 'vs/base/common/platform';
 import * as strings from 'vs/base/common/strings';
 import { withNullAsUndefined } from 'vs/base/common/types';
 import { URI } from 'vs/base/common/uri';
-import 'vs/css!./media/searchview';
+// import 'vs/css!./media/searchview';
 import { getCodeEditor, isCodeEditor, isDiffEditor } from 'vs/editor/browser/editorBrowser';
 import { ICodeEditorService } from 'vs/editor/browser/services/codeEditorService';
 import { EmbeddedCodeEditorWidget } from 'vs/editor/browser/widget/embeddedCodeEditorWidget';

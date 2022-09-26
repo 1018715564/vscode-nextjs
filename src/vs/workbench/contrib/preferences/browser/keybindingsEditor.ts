@@ -3,7 +3,7 @@
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 
-import 'vs/css!./media/keybindingsEditor';
+// import 'vs/css!./media/keybindingsEditor';
 import { localize } from 'vs/nls';
 import { Delayer } from 'vs/base/common/async';
 import * as DOM from 'vs/base/browser/dom';

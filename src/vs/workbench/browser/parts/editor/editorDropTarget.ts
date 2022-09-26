@@ -3,7 +3,7 @@
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 
-import 'vs/css!./media/editordroptarget';
+// import 'vs/css!./media/editordroptarget';
 import { DataTransfers } from 'vs/base/browser/dnd';
 import { addDisposableListener, DragAndDropObserver, EventHelper, EventType, isAncestor } from 'vs/base/browser/dom';
 import { renderFormattedText } from 'vs/base/browser/formattedTextRenderer';

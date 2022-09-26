@@ -3,7 +3,7 @@
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 
-import 'vs/css!./media/callHierarchy';
+// import 'vs/css!./media/callHierarchy';
 import * as peekView from 'vs/editor/contrib/peekView/browser/peekView';
 import { ICodeEditor } from 'vs/editor/browser/editorBrowser';
 import { IInstantiationService } from 'vs/platform/instantiation/common/instantiation';

@@ -12,7 +12,7 @@ import { KeyCode, KeyMod } from 'vs/base/common/keyCodes';
 import { combinedDisposable, DisposableStore, toDisposable } from 'vs/base/common/lifecycle';
 import { extUri } from 'vs/base/common/resources';
 import { URI } from 'vs/base/common/uri';
-import 'vs/css!./media/breadcrumbscontrol';
+// import 'vs/css!./media/breadcrumbscontrol';
 import { localize } from 'vs/nls';
 import { Action2, MenuId, registerAction2 } from 'vs/platform/actions/common/actions';
 import { IConfigurationService } from 'vs/platform/configuration/common/configuration';

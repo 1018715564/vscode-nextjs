@@ -12,7 +12,7 @@ import { Emitter } from 'vs/base/common/event';
 import { KeyCode, KeyMod } from 'vs/base/common/keyCodes';
 import { Disposable, DisposableStore, dispose, IDisposable } from 'vs/base/common/lifecycle';
 import * as types from 'vs/base/common/types';
-// import 'vs/css!./actionbar';
+// // import 'vs/css!./actionbar';
 
 export interface IActionViewItem extends IDisposable {
 	action: IAction;

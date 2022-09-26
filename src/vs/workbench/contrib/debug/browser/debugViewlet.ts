@@ -6,7 +6,7 @@
 import { IActionViewItem } from 'vs/base/browser/ui/actionbar/actionbar';
 import { IAction } from 'vs/base/common/actions';
 import { DisposableStore, dispose, IDisposable } from 'vs/base/common/lifecycle';
-import 'vs/css!./media/debugViewlet';
+// import 'vs/css!./media/debugViewlet';
 import * as nls from 'vs/nls';
 import { createActionViewItem } from 'vs/platform/actions/browser/menuEntryActionViewItem';
 import { Action2, MenuId, MenuItemAction, MenuRegistry, registerAction2 } from 'vs/platform/actions/common/actions';

@@ -13,7 +13,7 @@ import { UILabelProvider } from 'vs/base/common/keybindingLabels';
 import { KeyCode } from 'vs/base/common/keyCodes';
 import { combinedDisposable, MutableDisposable, toDisposable } from 'vs/base/common/lifecycle';
 import { isLinux, isWindows, OS } from 'vs/base/common/platform';
-import 'vs/css!./menuEntryActionViewItem';
+// import 'vs/css!./menuEntryActionViewItem';
 import { localize } from 'vs/nls';
 import { IMenu, IMenuActionOptions, IMenuService, MenuItemAction, SubmenuItemAction } from 'vs/platform/actions/common/actions';
 import { ICommandAction, Icon } from 'vs/platform/action/common/action';

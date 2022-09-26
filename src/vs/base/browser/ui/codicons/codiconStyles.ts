@@ -4,8 +4,8 @@
  *--------------------------------------------------------------------------------------------*/
 
 import { Codicon } from 'vs/base/common/codicons';
-import 'vs/css!./codicon/codicon';
-import 'vs/css!./codicon/codicon-modifiers';
+// // import 'vs/css!./codicon/codicon';
+// // import 'vs/css!./codicon/codicon-modifiers';
 
 
 export function formatRule(c: Codicon) {

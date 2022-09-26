@@ -3,7 +3,7 @@
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 
-import 'vs/css!./media/statusbarpart';
+// import 'vs/css!./media/statusbarpart';
 import { localize } from 'vs/nls';
 import { DisposableStore, dispose, disposeIfDisposable, IDisposable, MutableDisposable, toDisposable } from 'vs/base/common/lifecycle';
 import { Part } from 'vs/workbench/browser/part';

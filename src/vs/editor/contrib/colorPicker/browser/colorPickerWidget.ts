@@ -10,7 +10,7 @@ import { Widget } from 'vs/base/browser/ui/widget';
 import { Color, HSVA, RGBA } from 'vs/base/common/color';
 import { Emitter, Event } from 'vs/base/common/event';
 import { Disposable } from 'vs/base/common/lifecycle';
-import 'vs/css!./colorPicker';
+// // import 'vs/css!./colorPicker';
 import { ColorPickerModel } from 'vs/editor/contrib/colorPicker/browser/colorPickerModel';
 import { IEditorHoverColorPickerWidget } from 'vs/editor/contrib/hover/browser/hoverTypes';
 import { localize } from 'vs/nls';

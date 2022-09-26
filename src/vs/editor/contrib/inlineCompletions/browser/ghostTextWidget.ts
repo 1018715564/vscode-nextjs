@@ -6,7 +6,7 @@
 import * as dom from 'vs/base/browser/dom';
 import { Disposable, DisposableStore, IDisposable, toDisposable } from 'vs/base/common/lifecycle';
 import * as strings from 'vs/base/common/strings';
-import 'vs/css!./ghostText';
+// // import 'vs/css!./ghostText';
 import { applyFontInfo } from 'vs/editor/browser/config/domFontInfo';
 import { ContentWidgetPositionPreference, ICodeEditor, IContentWidget, IContentWidgetPosition } from 'vs/editor/browser/editorBrowser';
 import { EditorFontLigatures, EditorOption, IComputedEditorOptions } from 'vs/editor/common/config/editorOptions';

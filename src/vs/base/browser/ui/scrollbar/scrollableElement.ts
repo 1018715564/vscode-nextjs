@@ -17,7 +17,7 @@ import { Emitter, Event } from 'vs/base/common/event';
 import { dispose, IDisposable } from 'vs/base/common/lifecycle';
 import * as platform from 'vs/base/common/platform';
 import { INewScrollDimensions, INewScrollPosition, IScrollDimensions, IScrollPosition, Scrollable, ScrollbarVisibility, ScrollEvent } from 'vs/base/common/scrollable';
-import 'vs/css!./media/scrollbars';
+// // import 'vs/css!./media/scrollbars';
 
 const HIDE_TIMEOUT = 500;
 const SCROLL_WHEEL_SENSITIVITY = 50;

@@ -1,8 +1,12 @@
 {
-  "name": "code-oss-dev-smoke-test",
+  "name": "@swordjs/code-oss-dev-smoke-test",
   "version": "0.1.0",
   "license": "MIT",
   "main": "./src/main.js",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
   "scripts": {
     "compile": "yarn --cwd ../automation compile && node ../../node_modules/typescript/bin/tsc",
     "watch-automation": "yarn --cwd ../automation watch",

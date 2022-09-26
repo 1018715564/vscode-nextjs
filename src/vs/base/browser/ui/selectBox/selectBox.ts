@@ -14,7 +14,7 @@ import { Event } from 'vs/base/common/event';
 import { IDisposable } from 'vs/base/common/lifecycle';
 import { deepClone } from 'vs/base/common/objects';
 import { isMacintosh } from 'vs/base/common/platform';
-import 'vs/css!./selectBox';
+// // import 'vs/css!./selectBox';
 
 
 

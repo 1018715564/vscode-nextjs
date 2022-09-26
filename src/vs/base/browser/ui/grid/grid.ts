@@ -7,7 +7,7 @@ import { Orientation } from 'vs/base/browser/ui/sash/sash';
 import { equals, tail2 as tail } from 'vs/base/common/arrays';
 import { Event } from 'vs/base/common/event';
 import { Disposable } from 'vs/base/common/lifecycle';
-import 'vs/css!./gridview';
+// // import 'vs/css!./gridview';
 import { Box, GridView, IBoundarySashes, IGridViewOptions, IGridViewStyles, IView as IGridViewView, IViewSize, orthogonal, Sizing as GridViewSizing } from './gridview';
 import type { GridLocation } from 'vs/base/browser/ui/grid/gridview';
 ///@ts-ignore

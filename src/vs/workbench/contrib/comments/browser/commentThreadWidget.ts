@@ -3,7 +3,7 @@
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 
-import 'vs/css!./media/review';
+// import 'vs/css!./media/review';
 import * as dom from 'vs/base/browser/dom';
 import { Emitter } from 'vs/base/common/event';
 import { Disposable, dispose, IDisposable } from 'vs/base/common/lifecycle';

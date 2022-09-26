@@ -3,7 +3,7 @@
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 
-import 'vs/css!./media/notabstitlecontrol';
+// import 'vs/css!./media/notabstitlecontrol';
 import { EditorResourceAccessor, Verbosity, IEditorPartOptions, SideBySideEditor } from 'vs/workbench/common/editor';
 import { EditorInput } from 'vs/workbench/common/editor/editorInput';
 import { TitleControl, IToolbarActions, ITitleControlDimensions } from 'vs/workbench/browser/parts/editor/titleControl';

@@ -19,7 +19,7 @@ import { Emitter, Event } from 'vs/base/common/event';
 import { HistoryNavigator } from 'vs/base/common/history';
 import { mixin } from 'vs/base/common/objects';
 import { ScrollbarVisibility } from 'vs/base/common/scrollable';
-import 'vs/css!./inputBox';
+// // import 'vs/css!./inputBox';
 import * as nls from 'vs/nls';
 
 

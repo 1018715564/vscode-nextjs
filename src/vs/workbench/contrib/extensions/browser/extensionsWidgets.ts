@@ -3,7 +3,7 @@
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 
-import 'vs/css!./media/extensionsWidgets';
+// import 'vs/css!./media/extensionsWidgets';
 import * as semver from 'vs/base/common/semver/semver';
 import { Disposable, toDisposable, DisposableStore, MutableDisposable, IDisposable } from 'vs/base/common/lifecycle';
 import { IExtension, IExtensionsWorkbenchService, IExtensionContainer, ExtensionState, ExtensionEditorTab } from 'vs/workbench/contrib/extensions/common/extensions';

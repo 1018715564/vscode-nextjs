@@ -1,8 +1,12 @@
 {
-  "name": "code-oss-dev-integration-test",
+  "name": "@swordjs/code-oss-dev-integration-test",
   "version": "0.1.0",
   "license": "MIT",
   "main": "./index.js",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
   "scripts": {
     "compile": "node ../../../node_modules/typescript/bin/tsc"
   },

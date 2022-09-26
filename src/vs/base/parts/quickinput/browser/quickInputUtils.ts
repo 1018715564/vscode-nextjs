@@ -6,7 +6,7 @@
 import * as dom from 'vs/base/browser/dom';
 import { IdGenerator } from 'vs/base/common/idGenerator';
 import { URI } from 'vs/base/common/uri';
-import 'vs/css!./media/quickInput';
+// // import 'vs/css!./media/quickInput';
 
 const iconPathToClass: Record<string, string> = {};
 const iconClassGenerator = new IdGenerator('quick-input-button-icon-');

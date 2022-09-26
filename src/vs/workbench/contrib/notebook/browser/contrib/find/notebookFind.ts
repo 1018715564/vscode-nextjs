@@ -3,7 +3,7 @@
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 
-import 'vs/css!./media/notebookFind';
+// import 'vs/css!./media/notebookFind';
 import { KeyCode, KeyMod } from 'vs/base/common/keyCodes';
 import { Schemas } from 'vs/base/common/network';
 import { isEqual } from 'vs/base/common/resources';

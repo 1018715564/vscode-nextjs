@@ -5,7 +5,7 @@
 
 import { CancellationToken } from 'vs/base/common/cancellation';
 import { DisposableStore } from 'vs/base/common/lifecycle';
-import 'vs/css!./renameInputField';
+// // import 'vs/css!./renameInputField';
 import { ContentWidgetPositionPreference, ICodeEditor, IContentWidget, IContentWidgetPosition } from 'vs/editor/browser/editorBrowser';
 import { EditorOption } from 'vs/editor/common/config/editorOptions';
 import { Position } from 'vs/editor/common/core/position';

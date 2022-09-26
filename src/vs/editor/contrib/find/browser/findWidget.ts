@@ -22,7 +22,7 @@ import { KeyCode, KeyMod } from 'vs/base/common/keyCodes';
 import { toDisposable } from 'vs/base/common/lifecycle';
 import * as platform from 'vs/base/common/platform';
 import * as strings from 'vs/base/common/strings';
-import 'vs/css!./findWidget';
+// // import 'vs/css!./findWidget';
 import { ICodeEditor, IOverlayWidget, IOverlayWidgetPosition, IViewZone, OverlayWidgetPositionPreference } from 'vs/editor/browser/editorBrowser';
 import { ConfigurationChangedEvent, EditorOption } from 'vs/editor/common/config/editorOptions';
 import { Range } from 'vs/editor/common/core/range';

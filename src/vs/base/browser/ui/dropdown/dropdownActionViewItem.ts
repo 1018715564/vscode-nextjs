@@ -17,7 +17,7 @@ import { Emitter } from 'vs/base/common/event';
 import { KeyCode } from 'vs/base/common/keyCodes';
 import { ResolvedKeybinding } from 'vs/base/common/keybindings';
 import { IDisposable } from 'vs/base/common/lifecycle';
-import 'vs/css!./dropdown';
+// // import 'vs/css!./dropdown';
 
 export interface IKeybindingProvider {
 	(action: IAction): ResolvedKeybinding | undefined;

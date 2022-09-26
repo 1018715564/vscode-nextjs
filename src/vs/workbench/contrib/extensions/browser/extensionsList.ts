@@ -3,7 +3,7 @@
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 
-import 'vs/css!./media/extension';
+// import 'vs/css!./media/extension';
 import { append, $, addDisposableListener } from 'vs/base/browser/dom';
 import { IDisposable, dispose, combinedDisposable } from 'vs/base/common/lifecycle';
 import { IAction } from 'vs/base/common/actions';

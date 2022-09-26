@@ -26,7 +26,7 @@ import { withNullAsUndefined } from 'vs/base/common/types';
 import { IQuickInputOptions } from 'vs/base/parts/quickinput/browser/quickInput';
 import { getIconClass } from 'vs/base/parts/quickinput/browser/quickInputUtils';
 import { QuickPickItem, IQuickPickItem, IQuickPickItemButtonEvent, IQuickPickSeparator } from 'vs/base/parts/quickinput/common/quickInput';
-import 'vs/css!./media/quickInput';
+// // import 'vs/css!./media/quickInput';
 import { localize } from 'vs/nls';
 
 const $ = dom.$;

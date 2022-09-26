@@ -3,7 +3,7 @@
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 
-import 'vs/css!./media/sidebarpart';
+// import 'vs/css!./media/sidebarpart';
 import 'vs/workbench/browser/parts/sidebar/sidebarActions';
 import { Registry } from 'vs/platform/registry/common/platform';
 import { CompositePart } from 'vs/workbench/browser/parts/compositePart';

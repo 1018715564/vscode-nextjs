@@ -27,7 +27,7 @@ import { ScrollbarVisibility, ScrollEvent } from 'vs/base/common/scrollable';
 import { ISpliceable } from 'vs/base/common/sequence';
 import { IThemable } from 'vs/base/common/styler';
 import { isNumber } from 'vs/base/common/types';
-import 'vs/css!./list';
+// // import 'vs/css!./list';
 import { IIdentityProvider, IKeyboardNavigationDelegate, IKeyboardNavigationLabelProvider, IListContextMenuEvent, IListDragAndDrop, IListDragOverReaction, IListEvent, IListGestureEvent, IListMouseEvent, IListRenderer, IListTouchEvent, IListVirtualDelegate, ListError } from './list';
 import { IListViewAccessibilityProvider, IListViewDragAndDrop, IListViewOptions, IListViewOptionsUpdate, ListView } from './listView';
 

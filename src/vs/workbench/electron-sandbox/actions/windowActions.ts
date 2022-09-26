@@ -3,7 +3,7 @@
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 
-import 'vs/css!./media/actions';
+// import 'vs/css!./media/actions';
 import { URI } from 'vs/base/common/uri';
 import { localize } from 'vs/nls';
 import { applyZoom } from 'vs/platform/window/electron-sandbox/window';

@@ -8,7 +8,7 @@ import { Gesture } from 'vs/base/browser/touch';
 import { Codicon } from 'vs/base/common/codicons';
 import { Emitter } from 'vs/base/common/event';
 import { Disposable } from 'vs/base/common/lifecycle';
-import 'vs/css!./lightBulbWidget';
+// // import 'vs/css!./lightBulbWidget';
 import { ContentWidgetPositionPreference, ICodeEditor, IContentWidget, IContentWidgetPosition } from 'vs/editor/browser/editorBrowser';
 import { EditorOption } from 'vs/editor/common/config/editorOptions';
 import { IPosition } from 'vs/editor/common/core/position';

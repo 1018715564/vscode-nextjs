@@ -10,7 +10,7 @@ import { MarkdownString } from 'vs/base/common/htmlContent';
 import { Disposable, IDisposable } from 'vs/base/common/lifecycle';
 import * as platform from 'vs/base/common/platform';
 import { InvisibleCharacters } from 'vs/base/common/strings';
-import 'vs/css!./unicodeHighlighter';
+// import 'vs/css!./unicodeHighlighter';
 import { IActiveCodeEditor, ICodeEditor } from 'vs/editor/browser/editorBrowser';
 import { EditorAction, registerEditorAction, registerEditorContribution, ServicesAccessor } from 'vs/editor/browser/editorExtensions';
 import { InUntrustedWorkspace, inUntrustedWorkspace, EditorOption, InternalUnicodeHighlightOptions, unicodeHighlightConfigKeys } from 'vs/editor/common/config/editorOptions';

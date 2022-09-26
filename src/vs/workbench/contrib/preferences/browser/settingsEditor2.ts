@@ -22,7 +22,7 @@ import { Disposable, DisposableStore, dispose } from 'vs/base/common/lifecycle';
 import * as platform from 'vs/base/common/platform';
 import { withNullAsUndefined, withUndefinedAsNull } from 'vs/base/common/types';
 import { URI } from 'vs/base/common/uri';
-import 'vs/css!./media/settingsEditor2';
+// import 'vs/css!./media/settingsEditor2';
 import { localize } from 'vs/nls';
 import { ICommandService } from 'vs/platform/commands/common/commands';
 import { ConfigurationTarget, IConfigurationUpdateOverrides } from 'vs/platform/configuration/common/configuration';

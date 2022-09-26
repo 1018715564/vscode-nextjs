@@ -3,8 +3,8 @@
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 
-import 'vs/css!./media/basepanelpart';
-import 'vs/css!./media/panelpart';
+// import 'vs/css!./media/basepanelpart';
+// import 'vs/css!./media/panelpart';
 import { localize } from 'vs/nls';
 import { IAction, Separator, toAction } from 'vs/base/common/actions';
 import { Event } from 'vs/base/common/event';

@@ -15,7 +15,7 @@ import { Emitter, Event } from 'vs/base/common/event';
 import { KeyChord, KeyCode, KeyMod } from 'vs/base/common/keyCodes';
 import { combinedDisposable, dispose, IDisposable, toDisposable } from 'vs/base/common/lifecycle';
 import { assertIsDefined } from 'vs/base/common/types';
-import 'vs/css!./media/paneviewlet';
+// import 'vs/css!./media/paneviewlet';
 import * as nls from 'vs/nls';
 import { createActionViewItem } from 'vs/platform/actions/browser/menuEntryActionViewItem';
 import { Action2, IAction2Options, IMenuService, ISubmenuItem, MenuId, MenuRegistry, registerAction2 } from 'vs/platform/actions/common/actions';

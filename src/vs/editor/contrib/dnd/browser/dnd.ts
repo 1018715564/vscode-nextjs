@@ -8,7 +8,7 @@ import { IMouseEvent } from 'vs/base/browser/mouseEvent';
 import { KeyCode } from 'vs/base/common/keyCodes';
 import { Disposable } from 'vs/base/common/lifecycle';
 import { isMacintosh } from 'vs/base/common/platform';
-import 'vs/css!./dnd';
+// // import 'vs/css!./dnd';
 import { ICodeEditor, IEditorMouseEvent, IMouseTarget, IPartialEditorMouseEvent, MouseTargetType } from 'vs/editor/browser/editorBrowser';
 import { registerEditorContribution } from 'vs/editor/browser/editorExtensions';
 import { CodeEditorWidget } from 'vs/editor/browser/widget/codeEditorWidget';

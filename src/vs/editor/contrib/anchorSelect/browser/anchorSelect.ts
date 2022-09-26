@@ -7,7 +7,7 @@ import { alert } from 'vs/base/browser/ui/aria/aria';
 import { MarkdownString } from 'vs/base/common/htmlContent';
 import { KeyChord, KeyCode, KeyMod } from 'vs/base/common/keyCodes';
 import { IDisposable } from 'vs/base/common/lifecycle';
-import 'vs/css!./anchorSelect';
+// // import 'vs/css!./anchorSelect';
 import { ICodeEditor } from 'vs/editor/browser/editorBrowser';
 import { EditorAction, registerEditorAction, registerEditorContribution, ServicesAccessor } from 'vs/editor/browser/editorExtensions';
 import { Selection } from 'vs/editor/common/core/selection';

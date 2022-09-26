@@ -10,7 +10,7 @@ import { onUnexpectedError } from 'vs/base/common/errors';
 import { MarkdownString } from 'vs/base/common/htmlContent';
 import { DisposableStore } from 'vs/base/common/lifecycle';
 import { withNullAsUndefined } from 'vs/base/common/types';
-import 'vs/css!./goToDefinitionAtPosition';
+// // import 'vs/css!./goToDefinitionAtPosition';
 import { CodeEditorStateFlag, EditorState } from 'vs/editor/contrib/editorState/browser/editorState';
 import { ICodeEditor, MouseTargetType } from 'vs/editor/browser/editorBrowser';
 import { registerEditorContribution } from 'vs/editor/browser/editorExtensions';

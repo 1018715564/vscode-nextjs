@@ -6,7 +6,7 @@
 import { Schemas } from 'vs/base/common/network';
 import { withNullAsUndefined } from 'vs/base/common/types';
 import { URI } from 'vs/base/common/uri';
-import 'vs/css!./media/searchEditor';
+// import 'vs/css!./media/searchEditor';
 import { ICodeEditor, isDiffEditor } from 'vs/editor/browser/editorBrowser';
 import { IEditorOptions } from 'vs/editor/common/config/editorOptions';
 import { IConfigurationService } from 'vs/platform/configuration/common/configuration';

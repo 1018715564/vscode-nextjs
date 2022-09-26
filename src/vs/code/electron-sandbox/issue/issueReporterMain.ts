@@ -3,7 +3,7 @@
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 
-import 'vs/css!./media/issueReporter';
+// import 'vs/css!./media/issueReporter';
 import 'vs/base/browser/ui/codicons/codiconStyles'; // make sure codicon css is loaded
 import { localize } from 'vs/nls';
 import { $, reset, safeInnerHtml, windowOpenNoOpener } from 'vs/base/browser/dom';

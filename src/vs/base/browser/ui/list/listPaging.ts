@@ -10,7 +10,7 @@ import { Disposable, IDisposable } from 'vs/base/common/lifecycle';
 import { IPagedModel } from 'vs/base/common/paging';
 import { ScrollbarVisibility } from 'vs/base/common/scrollable';
 import { IThemable } from 'vs/base/common/styler';
-import 'vs/css!./list';
+// // import 'vs/css!./list';
 import { IListContextMenuEvent, IListEvent, IListMouseEvent, IListRenderer, IListVirtualDelegate } from './list';
 import { IListAccessibilityProvider, IListOptions, IListOptionsUpdate, IListStyles, List, TypeNavigationMode } from './listWidget';
 

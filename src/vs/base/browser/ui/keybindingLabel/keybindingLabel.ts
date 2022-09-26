@@ -10,7 +10,7 @@ import { ResolvedKeybinding, ResolvedKeybindingPart } from 'vs/base/common/keybi
 import { equals } from 'vs/base/common/objects';
 import { OperatingSystem } from 'vs/base/common/platform';
 import { IThemable } from 'vs/base/common/styler';
-import 'vs/css!./keybindingLabel';
+// // import 'vs/css!./keybindingLabel';
 import { localize } from 'vs/nls';
 
 const $ = dom.$;

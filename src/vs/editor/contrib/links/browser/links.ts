@@ -13,7 +13,7 @@ import * as platform from 'vs/base/common/platform';
 import * as resources from 'vs/base/common/resources';
 import { StopWatch } from 'vs/base/common/stopwatch';
 import { URI } from 'vs/base/common/uri';
-import 'vs/css!./links';
+// // import 'vs/css!./links';
 import { ICodeEditor, MouseTargetType } from 'vs/editor/browser/editorBrowser';
 import { EditorAction, registerEditorAction, registerEditorContribution, ServicesAccessor } from 'vs/editor/browser/editorExtensions';
 import { EditorOption } from 'vs/editor/common/config/editorOptions';

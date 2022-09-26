@@ -3,7 +3,7 @@
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 
-import 'vs/css!./media/gettingStarted';
+// import 'vs/css!./media/gettingStarted';
 import { localize } from 'vs/nls';
 import { IInstantiationService } from 'vs/platform/instantiation/common/instantiation';
 import { IEditorSerializer, IEditorOpenContext } from 'vs/workbench/common/editor';
